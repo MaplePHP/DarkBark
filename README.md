@@ -1,9 +1,6 @@
 # DarkBark
 
-That’s DarkBark. Dark, quiet, confident, like a rainy-night synthwave playlist for your CLI. The colors? Handpicked with the kind of care usually reserved for painting tiny Warhammer figures or rearranging your IDE settings at 2am. It’s bold when it needs to be (hi there, coral-red errors), calm where it counts (muted blues and foggy greys), and just punchy enough to make tests pop without screaming for attention.
-
-It’s a design-first terminal theme that actually feels designed, but doesn’t get in your way. Everything’s legible. Passes feel like small wins. Fails are still fails, but at least they look decent doing it.
-
+A dark theme built for the command line. Calm tones, sharp contrast and colors chosen to make output readable, not noisy. It’s made for long sessions, easy on the eyes, clear in every light and just expressive enough to make success feel satisfying.
 
 ## Theme Demo
 
